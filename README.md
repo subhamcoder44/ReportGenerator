@@ -26,7 +26,7 @@ A full-stack application that allows users to upload PDF reports, generate QR co
 - Tailwind CSS
 - React Router
 - Axios for API calls
-- React Toastify for notifications
+- React Toastify for notifications...
 
 ## Setup Instructions
 
