@@ -12,7 +12,7 @@ A full-stack application that allows users to upload PDF reports, generate QR co
 
 ## Tech Stack
 
-### Backend
+### Backend...
 - Node.js
 - Express.js
 - MongoDB
