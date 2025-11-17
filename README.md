@@ -1,4 +1,4 @@
-# QR Report Generator
+.# QR Report Generator
 
 A full-stack application that allows users to upload PDF reports, generate QR codes for them, and access reports by scanning QR codes.
 
