@@ -11,7 +11,7 @@ A full-stack application that allows users to upload PDF reports, generate QR co
 - **Dashboard**: Manage all your reports in one place
 
 ## Tech Stack
-
+.
 ### Backend.......
 - Node.js
 - Express.js
