@@ -7,7 +7,7 @@ A full-stack application that allows users to upload PDF reports, generate QR co
 - **User Authentication**: Login and Signup functionality
 - **Report Upload**: Upload PDF reports with custom names and IDs
 - **QR Code Generation**: Generate QR codes that link to uploaded reports
-- **Report Access**: Anyone can scan QR codes to view and download reports
+- **Report Access**: Anyone can scan QR codes to view and download reports..
 - **Dashboard**: Manage all your reports in one place
 
 ## Tech Stack
