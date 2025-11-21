@@ -10,7 +10,10 @@ A full-stack application that allows users to upload PDF reports, generate QR co
 - **Report Access**: Anyone can scan QR codes to view and download reports..
 - **Dashboard**: Manage all your reports in one place
 
-## Tech Stack
+## Tech Stack...
+
+
+
 .
 ### Backend.......
 - Node.js
